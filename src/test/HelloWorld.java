@@ -7,6 +7,8 @@ public class HelloWorld {
 		System.out.println("Hello Git");
 		
 		System.out.println("Test vi editor");
+		
+		System.out.println("Inside developer_001 branch");
 
 	}
 
