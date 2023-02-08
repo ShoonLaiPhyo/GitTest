@@ -11,6 +11,8 @@ public class HelloWorld {
 		System.out.println("Inside developer_001 branch");
 		
 		System.out.println("to test shopping cart feature");
+		
+		System.out.println("I changed from remove master");
 
 	}
 
